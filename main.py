@@ -1,0 +1,18 @@
+import sys
+import requests
+import socket
+import json
+if len(sys.argv)<2:
+     print("usage: "+ sys.argv[0] + "<url>")
+     sys.exit(1)
+req= requests.get("https://"+sys.argv[1])
+printf("\n"+str(req.headers))
+gethostby_ = socket.gethostbyname(sys,agrv[1])
+print("\n the IP address of "+sys.argv[1]+"is: "+gethostby_+"\n")
+#ipinfo.io
+req_two = requests.get("https://ipinfo.io/"+gethostby_+"/json")
+resp_=json.loads(req_two.text)
+print("location: "+resp_["loc"])
+print("region: "+resp_["region"])
+print("city: "+resp_["city"])
+print("country: "+resp_["country"])
