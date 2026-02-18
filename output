@@ -1,0 +1,10 @@
+python3 network.py google.com
+
+{'Date': 'Wed, 18 Feb 2026 14:10:44 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'Content-Security-Policy-Report-Only': "object-src 'none';base-uri 'self';script-src 'nonce-a0Svbp7Coj_LQq-yuI8fQQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp", 'Reporting-Endpoints': 'default="//www.google.com/httpservice/retry/jserror?ei=ZMiVaYjLD67S1sQPxu-D8Q4&cad=crash&error=Page%20Crash&jsel=1&bver=2377&dpf=dJPuyMOjr9Qw6s5xk6HhijQAJ1HV7jVDhkFqxLCg18k"', 'Accept-CH': 'Sec-CH-Prefers-Color-Scheme', 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Set-Cookie': '__Secure-STRP=AD6DogvY1kFPtW7K1ROX6jrziHx0HcLGnJcL7nRN9GgWPGf-LcrMWPmpZMYmpinie5Gi22I9u82KiUBfWP9Zf-uszzkvJoX3lKXc; expires=Wed, 18-Feb-2026 14:15:44 GMT; path=/; domain=.google.com; Secure; SameSite=strict, AEC=AaJma5u0x25bpDVscC0zrj-dRMeaVeT_s1umDerU6ryuaaQERlY6X8CWMV0; expires=Mon, 17-Aug-2026 14:10:44 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=528=Gc6Iy_xghS6FqOL2uyZNeuwjWlEMcFXvk7Gd5mbjIz2-C-qmX2Y4m6SIN70Z7kwvEL-n1JdFwT_c5dU61P4ACNfaA14wcG0nN2MLFk8kwbbZbKDD5OK87skbHJhL6z4PcUNro8or3UxWxIHMz9VVAyDcQ_cwUP7VysG6Ah4BMUOLWd3KBti-Tfv2Nbpxp1TY4dOuz7P6RRWJEcOAmWOu65geSqIzT7qP94s; expires=Thu, 20-Aug-2026 14:10:44 GMT; path=/; domain=.google.com; HttpOnly, __Secure-BUCKET=CN4G; expires=Mon, 17-Aug-2026 14:10:44 GMT; path=/; domain=.google.com; Secure; HttpOnly', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+
+ the IP address of google.comis: 172.217.24.142
+
+location: 13.0878,80.2785
+region: Tamil Nadu
+city: Chennai
+country: IN
