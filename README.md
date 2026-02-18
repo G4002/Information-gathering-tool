@@ -1,4 +1,8 @@
 # Information Gathering Tool #
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Tool](https://img.shields.io/badge/type-domain--recon-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey)
 
 # Description
 
