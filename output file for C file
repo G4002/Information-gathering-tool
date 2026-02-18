@@ -1,0 +1,14 @@
+ ./a.out google.com
+IP address of google.com: 172.217.24.14
+
+Geolocation JSON:
+{
+  "ip": "172.217.24.14",
+  "hostname": "lcmaaa-an-in-f14.1e100.net",
+  "city": "Chennai",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "13.0878,80.2785",
+  "org": "AS15169 Google LLC",
+  "postal": "600001",
+  "timezone": "Asia/Kolkata",
